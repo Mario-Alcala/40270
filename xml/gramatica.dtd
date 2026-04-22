@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT coche (matricula, modelo)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT año (#PCDATA)>
